@@ -1,0 +1,31 @@
+ 
+.main{
+    width: 300px !important;
+    height: 500px !important;
+    background-color:whitesmoke;
+    margin-left: 500px;
+    position: relative;
+    top: 30px;
+    
+    
+}
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+    text-shadow:2px , 2px gainsboro;
+}
+.btn{
+    border-radius: 10px;
+}
+.add_btn{
+    border-radius: 10px;
+    position: relative;
+    left: 30px;
+    width: 70px;
+    margin: 5px;
+}
+.inp , .all_btn{
+    padding-top: 10px;
+    text-align: center;
+    
+}
